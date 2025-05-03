@@ -1,4 +1,4 @@
-# Swipe-Rank
+# swiper
 
 ## 📌 Project Setup Instructions
 
