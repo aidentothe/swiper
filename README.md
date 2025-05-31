@@ -7,7 +7,7 @@
 #### 1️⃣ **Clone the Repository**
 
 ```bash
-git clone https://github.com/CollinQ/swiperank.git
+git clone https://github.com/aidentothe/swiper.git
 cd frontend
 ```
 
